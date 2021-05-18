@@ -10,9 +10,6 @@ Dados Brutos: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/mi
 
 ## Recomendações para o uso:
 
-Os dados shapefile do Brasil do IBGE no site: https://bit.ly/39e59PB
-
-É necessário descompactar a pasta zip BR_Municipios_2020, nesse diretório.
 
 iniciar > CMD > enter
 
