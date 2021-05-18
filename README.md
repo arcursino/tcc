@@ -99,7 +99,7 @@ make start
 ![homem](https://github.com/arcursino/tcc/blob/main/imagens/regressao_homem.png)
 
 - Regressão para verificar se uma variável independente (Ano),  tem relação com uma variável dependente (Número de alunas por sexo e por ano):
-![mulher](https://github.com/arcursino/tcc/blob/main/imagens/regressao_mulher.png)
+![mulher](https://github.com/arcursino/tcc/blob/main/imagens/regressao_mulheres.png)
 
 ## Validação do Modelo
 
